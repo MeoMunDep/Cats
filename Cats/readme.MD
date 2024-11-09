@@ -64,7 +64,7 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
-### 4. `answers.txt` 🌐 - Fill with youtube tasks anwsers.
+### 5. `answers.txt` 🌐 - Fill with youtube tasks anwsers.
 
 ```txt
 ....
