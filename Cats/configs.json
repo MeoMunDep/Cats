@@ -2,5 +2,7 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "useLocalIamge": true
+  "useLocalIamge": true,
+  "referralCode": "edW1osjcF4aaeSZHAMBAe",
+  "delayEachAccount": [1, 81]
 }
