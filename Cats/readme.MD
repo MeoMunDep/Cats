@@ -35,11 +35,14 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "useLocalIamge": true, //if you want to use the image from your device, add more in image folder.
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "useLocalIamge": true,
+  "referralCode": "edW1osjcF4aaeSZHAMBAe",
+  "delayEachAccount": [1, 81]
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from [here](https://t.me/KeoAirDropFreeNe/257/6879).
